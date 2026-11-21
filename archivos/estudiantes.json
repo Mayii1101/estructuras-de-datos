@@ -1,0 +1,46 @@
+{
+    "E001": {
+        "nombre": "Ana García",
+        "notas": [
+            4.5,
+            3.8,
+            4.2,
+            3.9
+        ],
+        "promedio": 4.1,
+        "estado": "APROBADO"
+    },
+    "E002": {
+        "nombre": "Carlos López",
+        "notas": [
+            2.8,
+            3.1,
+            2.5,
+            2.9
+        ],
+        "promedio": 2.83,
+        "estado": "REPROBADO"
+    },
+    "E003": {
+        "nombre": "María Torres",
+        "notas": [
+            4.8,
+            4.9,
+            5.0,
+            4.7
+        ],
+        "promedio": 4.85,
+        "estado": "APROBADO"
+    },
+    "E005": {
+        "nombre": "Sofía Ruiz",
+        "notas": [
+            3.5,
+            4.0,
+            3.8,
+            3.7
+        ],
+        "promedio": 3.75,
+        "estado": "APROBADO"
+    }
+}
